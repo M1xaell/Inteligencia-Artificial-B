@@ -31,4 +31,3 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_PROJECT_KEY: M1xaell_Inteligencia-Artificial-B
           SONAR_ORGANIZATION: paulcontreras
-≈
